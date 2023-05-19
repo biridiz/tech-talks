@@ -1,0 +1,7 @@
+npm init -y
+npm i typescript -D
+npm i vitest -D
+
+npm i pg
+npm i express
+npm i @types/express
